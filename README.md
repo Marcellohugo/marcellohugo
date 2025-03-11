@@ -1,6 +1,7 @@
-# <p align="center">💫 ABOUT ME:</p>
-🔭 Computer science engineering student<br>👯 Website and mobile app builder<br>🌱 OOP, inheritance, Android development, code optimization<br>💬 programming skills, debugging, technology collaboration, solution-oriented answers, and learning inspiration.<br>⚡ Keep exploring, improving and developing
-
+<h1 align="center">Hi, I'm Marco Marcello Hugo</h1>
+<h3 align="center">Computer science engineering student 🐈</h3>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+![snake gif](https://github.com/marcellohugo/marcellohugo/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials:
 <p align="center">
@@ -27,8 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcellohugo&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=marcellohugo&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
