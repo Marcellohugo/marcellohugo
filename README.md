@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marcellohugo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcellohugo__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcellohugo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marcellohugo) 
 
 # 💻 Tech Stack:
-<p align="justify">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,windows,bash,kotlin,mysql,laravel,flutter,sass,react,figma,nextjs,tailwind,wordpress,powershell" />
 </p>
 
