@@ -14,17 +14,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create output directory
-        run: mkdir -p output
-
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.marcellohugo }}
-          outputs: output/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v4
         with:
           name: snake-animation
-          path: output/github-contribution-grid-snake.svg
+          path: dist/github-contribution-grid-snake.svg
