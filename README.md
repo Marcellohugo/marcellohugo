@@ -3,10 +3,15 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marcellohugo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcellohugo__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcellohugo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marcellohugo) 
+<p align="center">
+  <a href="https://discord.gg/marcellohugo"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://instagram.com/marcellohugo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/marcellohugo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@marcellohugo"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</p>
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,windows,bash,kotlin,mysql,laravel,flutter,sass,react,figma,nextjs,tailwind,wordpress,powershell" />
 </p>
 
