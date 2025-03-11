@@ -13,9 +13,6 @@
   <a href="https://linkedin.com/in/marcellohugo">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50">
   </a>
-  <a href="https://medium.com/@marcellohugo">
-    <img src="https://cdn.simpleicons.org/medium/black">
-  </a>
 </p>
 
 # 💻 Tech Stack:
