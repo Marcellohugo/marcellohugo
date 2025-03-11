@@ -21,14 +21,14 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=marcellohugo&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=marcellohugo&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marcellohugo&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcellohugo&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
