@@ -4,10 +4,18 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://discord.gg/marcellohugo"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://instagram.com/marcellohugo__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/marcellohugo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@marcellohugo"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://discord.gg/marcellohugo">
+    <img src="https://skillicons.dev/icons?i=discord" width="50">
+  </a>
+  <a href="https://instagram.com/marcellohugo__">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50">
+  </a>
+  <a href="https://linkedin.com/in/marcellohugo">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50">
+  </a>
+  <a href="https://medium.com/@marcellohugo">
+    <img src="https://skillicons.dev/icons?i=medium" width="50">
+  </a>
 </p>
 
 # 💻 Tech Stack:
