@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <p align="center">💫 ABOUT ME:</p>
 🔭 Computer science engineering student<br>👯 Website and mobile app builder<br>🌱 OOP, inheritance, Android development, code optimization<br>💬 programming skills, debugging, technology collaboration, solution-oriented answers, and learning inspiration.<br>⚡ Keep exploring, improving and developing
 
 
@@ -15,12 +15,12 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,windows,bash,kotlin,mysql,laravel,flutter,sass,react,figma,nextjs,tailwind,wordpress,powershell" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <img src="https://nirzak-streak-stats.vercel.app/?user=marcellohugo&theme=dark&hide_border=true" alt="GitHub Streak">
