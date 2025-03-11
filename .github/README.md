@@ -8,20 +8,6 @@
   <img src="https://github.com/marcellohugo/marcellohugo/blob/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation">
 </p>
 
-
-## 🌐 Socials:
-<p align="center">
-  <a href="https://discord.gg/marcellohugo">
-    <img src="https://skillicons.dev/icons?i=discord" width="50">
-  </a>
-  <a href="https://instagram.com/marcellohugo__">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50">
-  </a>
-  <a href="https://linkedin.com/in/marcellohugo">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-  </a>
-</p>
-
 ## 💻 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,js,python,php,windows,bash,kotlin,mysql,laravel,flutter,sass,react,figma,nextjs,tailwind,wordpress,powershell" />
