@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-contribution-grid-snake.svg
+          outputs: .github/output/github-contribution-grid-snake.svg
 
       - name: Setup Git
         run: |
@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit and Push Snake Animation
         run: |
-          git checkout -B output  # Pastikan berada di branch output
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update GitHub Contribution Snake"
+          git switch -c output || git checkout output  # Buat branch jika belum ada
+          git add .github/output/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake" --allow-empty
           git push origin output --force
