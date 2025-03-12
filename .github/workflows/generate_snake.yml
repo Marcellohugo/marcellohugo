@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           git commit -m "Update GitHub Contribution Snake"
           git push
