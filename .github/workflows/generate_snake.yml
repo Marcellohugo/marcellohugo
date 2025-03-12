@@ -20,12 +20,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          output_settings: '{"dark_mode": true}'  # Menyalakan mode gelap
 
       - name: Commit and Push Snake Animation
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update GitHub Contribution Snake"
+          git add dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Update GitHub Contribution Snake (Dark Mode)"
           git push
