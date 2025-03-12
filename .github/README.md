@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding GIF">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcellohugo/output/.github/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
+  <img src="https://raw.githubusercontent.com/marcellohugo/output/output/.github/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 ## 💻 Tech Stack:
