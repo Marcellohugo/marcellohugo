@@ -3,7 +3,6 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Menjalankan setiap tengah malam UTC
-
   workflow_dispatch: # Memungkinkan menjalankan workflow secara manual
 
 jobs:
@@ -18,10 +17,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
+      - name: Setup Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit and Push Snake Animation
+        run: |
+          git checkout -B output  # Pastikan berada di branch output
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake"
+          git push origin output --force
