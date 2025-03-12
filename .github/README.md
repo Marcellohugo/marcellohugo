@@ -7,27 +7,27 @@
 <table cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" height="50">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="50">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="50">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="50">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="50">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="50">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50">
-        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" height="50">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" height="50">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="50">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="50">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="50">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" height="45">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="45">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="45">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="45">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" height="45">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="45">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="45">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="45">
+        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" height="45">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" height="45">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="45">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="45">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="45">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="45">
       </td>
       <td align="center" valign="middle">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellohugo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height=300">
