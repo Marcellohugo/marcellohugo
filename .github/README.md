@@ -8,34 +8,22 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="150">
-        <b>Programming<br>Languages</b>
-      </td>
-      <td>
+      <td align="center" width="50%">
+        <b>Programming Languages</b><br><br>
         <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,php,js" alt="Programming Languages" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <b>Frontend &<br>Design</b>
-      </td>
-      <td>
+      <td align="center" width="50%">
+        <b>Frontend & Design</b><br><br>
         <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma" alt="Frontend & Design" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="150">
-        <b>Frameworks</b>
-      </td>
-      <td>
+      <td align="center" width="50%">
+        <b>Frameworks</b><br><br>
         <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,wordpress" alt="Frameworks" />
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <b>Tools & OS</b>
-      </td>
-      <td>
+      <td align="center" width="50%">
+        <b>Tools & OS</b><br><br>
         <img src="https://skillicons.dev/icons?i=mysql,linux,windows,bash,powershell" alt="Tools & OS" />
       </td>
     </tr>
