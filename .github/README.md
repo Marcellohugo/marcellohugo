@@ -1,5 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Marco Marcello Hugo 👋</h1>
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Marco+Marcello+Hugo;Computer+Science+Student+%F0%9F%90%88;I+Love+Coding+&+.NET;Always+Learning+New+Tech" alt="Typing SVG" />
+</h1>
   <h3 align="center">Computer Science Engineering Student 🐈</h3>
 
   <br/>
