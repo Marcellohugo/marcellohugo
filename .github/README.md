@@ -45,6 +45,10 @@
   </p>
 
   <p>
+    <div align="center">
+  <h3>🏆 Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=marcellohugo&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+</div>
     <img src="https://github-readme-stats.vercel.app/api?username=marcellohugo&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellohugo&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
   </p>
