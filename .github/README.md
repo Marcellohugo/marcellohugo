@@ -2,16 +2,24 @@
 <h3 align="center">Computer Science Engineering Student 🐈</h3>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding GIF">
+  
+  <br/>
+  
   <div align="center">
+  <h3 align="center">Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,php,js" alt="Programming Languages" />
   <br/>
-  
+
+  <h3 align="center">Frontend & Design</h3>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma" alt="Frontend & Design" />
   <br/>
-  
+
+  <h3 align="center">Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,flutter,wordpress" alt="Frameworks" />
   <br/>
-  
+
+  <h3 align="center">Tools & OS</h3>
   <img src="https://skillicons.dev/icons?i=mysql,linux,windows,bash,powershell" alt="Tools & OS" />
 </div>
 
