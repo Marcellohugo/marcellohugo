@@ -28,6 +28,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
+<div align="center">
+  <h3>🎵 Vibe Coding</h3>
+  <a href="https://spotify.com">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</div>
+
 <br/>
 <div align="center">
   <h3>📊 GitHub Stats</h3>
