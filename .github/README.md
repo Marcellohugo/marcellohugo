@@ -27,6 +27,4 @@
     </tr>
   </table>
 </div>
-
-![snake gif](https://github.com/marcellohugo/marcellohugo/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
