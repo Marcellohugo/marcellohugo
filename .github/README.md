@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Coding GIF" />
 </p>
 
-## About Me
+<h1 align="center">About Me</h1>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHZ5YmI3bWU3ZW41YjZ1ZHowZHh1NDk2bml6cWpybjBiZHIzanZlNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" height="200" alt="About Me GIF" />
 
@@ -16,7 +16,7 @@
 
 <br clear="right"/>
 
-## Languages and Tools
+<h1 align="center">Languages and Tools</h1>
 
 <div align="center">
   <table width="100%">
@@ -59,7 +59,7 @@
   </table>
 </div>
 
-## GitHub Stats
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   <img src="https://readme-stats-github.pages.dev/api?username=Marcellohugo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="32.5%" />
@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="32.5%" />
 </div>
 
-## Contribution Graph
+<h1 align="center">Contribution Graph</h1>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcellohugo&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
