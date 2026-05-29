@@ -72,11 +72,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcellohugo&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Graph" src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
