@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/profile-header.svg" alt="Marco Marcello Hugo — Informatics at ITS. Exploring web, mobile, and cloud." width="100%" />
+  <img src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/main/assets/profile-header.svg" alt="Marco Marcello Hugo — Informatics at ITS. Exploring web, mobile, and cloud." width="100%" />
 </p>
 
 <p align="center">
