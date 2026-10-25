@@ -9,7 +9,7 @@
   &nbsp; · &nbsp;
   <a href="https://www.instagram.com/marcellohugo__/">Instagram</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/Marcellohugo?tab=repositories">Repositories</a>
+  <a href="mailto:marco.marcello15@gmail.com">Email me</a>
 </p>
 
 ## About me
@@ -23,7 +23,7 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
 <table>
   <thead>
     <tr>
-      <th align="left">Area</th>
+      <th align="left" width="25%">Area</th>
       <!-- GitHub caps this wide column to the available README width. -->
       <th align="left" width="9999">Technologies</th>
     </tr>
@@ -61,6 +61,11 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
 </table>
 
 ## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcellohugo&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;icon_color=91BAEF&amp;border_radius=12&amp;disable_animations=true" alt="Marco's public GitHub activity: stars, commits, pull requests, and issues" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellohugo&amp;layout=compact&amp;hide_border=true&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;border_radius=12&amp;langs_count=6&amp;card_width=495&amp;disable_animations=true" alt="Most-used languages across Marco's public repositories" width="400" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Marcellohugo#overview">
