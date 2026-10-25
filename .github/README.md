@@ -12,7 +12,7 @@
   <a href="https://github.com/Marcellohugo?tab=repositories">Repositories</a>
 </p>
 
-## A little about me
+## About me
 
 Hi, I'm **Marco Marcello Hugo**, an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia.
 
@@ -36,11 +36,11 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
   AngularJS · VuePress · Vuetify · WordPress · Windows · Selenium · Unity
 </details>
 
-## Little milestones
+## GitHub activity
 
 <p align="center">
   <a href="https://github.com/Marcellohugo#overview">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=20&amp;background=FFF8EF&amp;ring=9D99CF&amp;fire=C88169&amp;currStreakLabel=596B59&amp;sideLabels=62617A&amp;currStreakNum=34364E&amp;sideNums=34364E&amp;dates=62617A&amp;stroke=E0D9D3" alt="Marco's GitHub contribution streak" width="520" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=12&amp;background=142233&amp;ring=E8A66F&amp;fire=E8A66F&amp;currStreakLabel=91BAEF&amp;sideLabels=B1C1D3&amp;currStreakNum=F4F3EF&amp;sideNums=F4F3EF&amp;dates=B1C1D3&amp;stroke=30465E" alt="Marco's GitHub contribution streak" width="520" />
   </a>
 </p>
 
@@ -53,5 +53,5 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
 ---
 
 <p align="center">
-  <sub>A little curiosity. A little code. A little better every day.</sub>
+  <sub>Learning by building.</sub>
 </p>
