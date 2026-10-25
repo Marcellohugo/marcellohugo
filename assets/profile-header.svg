@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm Marco — Marco Marcello Hugo</title>
+  <desc id="description">Informatics at ITS in Surabaya. Exploring web, mobile, and cloud. A charcoal and denim banner with bold typography, copper accents, and a tilted terminal window.</desc>
+  <defs>
+    <clipPath id="bounds">
+      <rect width="1280" height="440" rx="18"/>
+    </clipPath>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#90B7E4" fill-opacity=".18"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="440" fill="#111D2B"/>
+    <path d="M896 0h384v440H724Z" fill="#24476B"/>
+    <path d="M1088 0h192v440h-360Z" fill="#2F5B83"/>
+    <rect x="770" width="510" height="440" fill="url(#dots)"/>
+    <path d="M58 44h38" stroke="#E8A66F" stroke-width="4" stroke-linecap="round"/>
+    <text x="110" y="49" fill="#B1C1D3" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">MARCELLOHUGO</text>
+
+    <text x="58" y="131" fill="#B1C1D3" font-family="'Segoe UI', Arial, sans-serif" font-size="25" font-weight="500">Hey, I'm</text>
+    <text x="50" y="244" fill="#F4F3EF" font-family="'Segoe UI', Arial, sans-serif" font-size="120" font-weight="700" letter-spacing="-5">Marco<tspan fill="#E8A66F">.</tspan></text>
+    <path d="M59 263c90 8 196 6 318-2" stroke="#E8A66F" stroke-width="4" stroke-linecap="round"/>
+    <text x="58" y="313" fill="#B1C1D3" font-family="'Segoe UI', Arial, sans-serif" font-size="23">Exploring <tspan fill="#91BAEF">web</tspan>, <tspan fill="#F4F3EF">mobile</tspan>, and <tspan fill="#E8A66F">cloud</tspan>.</text>
+    <text x="58" y="398" fill="#B1C1D3" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.5">INFORMATICS @ ITS</text>
+    <path d="M260 388v13" stroke="#49617B"/>
+    <text x="280" y="398" fill="#B1C1D3" font-family="'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="1.5">SURABAYA, INDONESIA</text>
+
+    <circle cx="1159" cy="94" r="48" fill="#E8A66F"/>
+    <path d="m1143 80-13 14 13 14m32-28 13 14-13 14m-12-30-8 32" stroke="#213347" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M769 123c-16-28 9-59 38-46" stroke="#91BAEF" stroke-width="2" stroke-linecap="round"/>
+    <path d="m801 69 9 9-11 5" stroke="#91BAEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g transform="rotate(-4 980 238)">
+      <rect x="792" y="142" width="380" height="224" rx="14" fill="#0B1420" fill-opacity=".3"/>
+      <rect x="778" y="127" width="380" height="224" rx="14" fill="#142233" stroke="#6087AF" stroke-width="2"/>
+      <path d="M779 166h378" stroke="#30465E" stroke-width="1.5"/>
+      <circle cx="800" cy="147" r="4" fill="#E8A66F"/>
+      <circle cx="815" cy="147" r="4" fill="#91BAEF"/>
+      <circle cx="830" cy="147" r="4" fill="#7DAA9B"/>
+      <text x="857" y="152" fill="#9DB2CA" font-family="Consolas, 'Courier New', monospace" font-size="13">marco@github: ~</text>
+      <g font-family="Consolas, 'Courier New', monospace" font-size="19">
+        <text x="804" y="204" fill="#E8A66F">~ <tspan fill="#F4F3EF">whoami</tspan></text>
+        <text x="804" y="233" fill="#91BAEF">Marco Marcello Hugo</text>
+        <text x="804" y="277" fill="#E8A66F">~ <tspan fill="#F4F3EF">interests</tspan></text>
+        <text x="804" y="306" fill="#B1C1D3">web / mobile / cloud</text>
+      </g>
+      <rect x="804" y="326" width="9" height="3" fill="#E8A66F"/>
+    </g>
+    <path d="M1133 386h63m-14-10 14 10-14 10" stroke="#E8A66F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M695 363h39m-19-19v38" stroke="#91BAEF" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
