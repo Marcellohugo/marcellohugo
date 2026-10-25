@@ -14,9 +14,12 @@
 
 ## About me
 
-<img align="right" src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/main/assets/duck.gif" alt="Animated duck working on a laptop" width="96" />
-
-Hi, I'm **Marco Marcello Hugo**, an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia. I'm exploring **web development, mobile apps, and cloud technologies**, while learning full-stack development and how to make software easier to use, understand, and maintain.
+<!-- shortcut: one-line spacing targets the current desktop bio, revisit if its length or layout changes. -->
+<p>
+  <img align="right" src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/main/assets/duck.gif" alt="Animated duck working on a laptop" width="96" />
+  <br />
+  Hi, I'm <strong>Marco Marcello Hugo</strong>, an Informatics Engineering student at <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong> in Surabaya, Indonesia. I'm exploring <strong>web development, mobile apps, and cloud technologies</strong>, while learning full-stack development and how to make software easier to use, understand, and maintain.
+</p>
 
 <br clear="right" />
 
