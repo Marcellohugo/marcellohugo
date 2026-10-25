@@ -4,44 +4,21 @@
 
 <p align="center">
   <a href="https://marcello.web.id"><strong>Portfolio ↗︎</strong></a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/marcellohugo/">LinkedIn</a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://www.instagram.com/marcellohugo__/">Instagram</a>
-  &nbsp; / &nbsp;
+  &nbsp; · &nbsp;
   <a href="https://github.com/Marcellohugo?tab=repositories">Repositories</a>
 </p>
 
 ## A little about me
 
-I'm **Marco**, an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)**, based in Surabaya, Indonesia. I'm exploring web development, mobile apps, and cloud technologies through coursework and projects.
+Hi, I'm **Marco Marcello Hugo**, an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia.
 
-Currently learning **full-stack development** and how to build software that's easier to use, understand, and maintain.
+I'm curious about **web development, mobile apps, and cloud technologies**. Right now, I'm learning full-stack development and how to make software easier to use, understand, and maintain.
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="../assets/researchmate-cover.svg" alt="" width="100%" />
-      <h3>01 &nbsp; ResearchMate</h3>
-      <p>A research assistant with AI agents, private PDF documents, and retrieval-augmented generation.</p>
-      <p><sub><strong>LARAVEL &nbsp; / &nbsp; POSTGRESQL &nbsp; / &nbsp; QDRANT</strong></sub></p>
-      <a href="https://github.com/Marcellohugo/Researchmate"><strong>View ResearchMate ↗︎</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="../assets/webgl-cover.svg" alt="" width="100%" />
-      <h3>02 &nbsp; WebGL Playground</h3>
-      <p>An interactive 3D scene exploring camera controls, atmospheric lighting, and rendering on the web.</p>
-      <p><sub><strong>THREE.JS &nbsp; / &nbsp; VITE &nbsp; / &nbsp; TAILWIND CSS</strong></sub></p>
-      <a href="https://github.com/Marcellohugo/GrafkomwebGL"><strong>View WebGL project ↗︎</strong></a>
-    </td>
-  </tr>
-</table>
-
-**Also exploring mobile:** [Android Student Manager ↗︎](https://github.com/Marcellohugo/PemrogramanPerangkatBergerak) — student search and data management with Java, Kotlin, SQLite, camera integration, and APIs.
-
-## Languages & tools
+## My toolbox
 
 | Area | Technologies |
 | :--- | :--- |
@@ -54,16 +31,16 @@ Currently learning **full-stack development** and how to build software that's e
 | **Workflow** | Git · Postman · Figma |
 
 <details>
-  <summary>More tools I've explored</summary>
+  <summary>A few more things I've explored</summary>
   <br />
   AngularJS · VuePress · Vuetify · WordPress · Windows · Selenium · Unity
 </details>
 
-## On GitHub
+## Little milestones
 
 <p align="center">
   <a href="https://github.com/Marcellohugo#overview">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=16&amp;background=151D33&amp;ring=B5A0FF&amp;fire=F3C878&amp;currStreakLabel=6EE7CF&amp;sideLabels=AFBDD4&amp;currStreakNum=F3F7FA&amp;sideNums=F3F7FA&amp;dates=AFBDD4&amp;stroke=344364" alt="Marco's GitHub contribution streak" width="520" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=20&amp;background=FFF8EF&amp;ring=9D99CF&amp;fire=C88169&amp;currStreakLabel=596B59&amp;sideLabels=62617A&amp;currStreakNum=34364E&amp;sideNums=34364E&amp;dates=62617A&amp;stroke=E0D9D3" alt="Marco's GitHub contribution streak" width="520" />
   </a>
 </p>
 
@@ -76,5 +53,5 @@ Currently learning **full-stack development** and how to build software that's e
 ---
 
 <p align="center">
-  <sub>Always learning. One project at a time.</sub>
+  <sub>A little curiosity. A little code. A little better every day.</sub>
 </p>

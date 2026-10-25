@@ -1,82 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Marco Marcello Hugo</title>
-  <desc id="description">Informatics at ITS. Exploring web, mobile, and cloud. A deep navy banner with blue, violet, teal, and amber accents and an illustration of connected layers.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm Marco — Marco Marcello Hugo</title>
+  <desc id="description">An Informatics student at ITS in Surabaya, exploring web, mobile, and cloud. A warm cream banner with a lavender laptop, a small plant, and a reminder to keep learning.</desc>
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#95A7E0" stroke-opacity=".1"/>
-    </pattern>
-    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101E35"/>
-      <stop offset=".55" stop-color="#181C38"/>
-      <stop offset="1" stop-color="#102C35"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="56" y1="0" x2="1224" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7AA2FF"/>
-      <stop offset=".4" stop-color="#B5A0FF"/>
-      <stop offset=".75" stop-color="#6EE7CF"/>
-      <stop offset="1" stop-color="#F3C878"/>
-    </linearGradient>
-    <linearGradient id="name" x1="52" y1="220" x2="280" y2="250" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8CBBFF"/>
-      <stop offset="1" stop-color="#C0A8FF"/>
-    </linearGradient>
-    <radialGradient id="blueGlow">
-      <stop stop-color="#426BBF" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#426BBF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="violetGlow">
-      <stop stop-color="#8B5FD3" stop-opacity=".24"/>
-      <stop offset="1" stop-color="#8B5FD3" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#214B4B"/>
-      <stop offset="1" stop-color="#182D48"/>
-    </linearGradient>
     <clipPath id="bounds">
-      <rect width="1280" height="440" rx="24"/>
+      <rect width="1280" height="460" rx="28"/>
     </clipPath>
+    <g id="sparkle">
+      <path d="M0-14C2-3 3-2 14 0 3 2 2 3 0 14-2 3-3 2-14 0-3-2-2-3 0-14Z"/>
+    </g>
   </defs>
   <g clip-path="url(#bounds)">
-    <rect width="1280" height="440" fill="url(#background)"/>
-    <circle cx="430" cy="40" r="380" fill="url(#blueGlow)"/>
-    <circle cx="1030" cy="210" r="360" fill="url(#violetGlow)"/>
-    <rect width="1280" height="5" fill="url(#accent)"/>
-    <rect x="768" width="512" height="440" fill="url(#grid)"/>
-    <path d="M768 0V440" stroke="#7AA2FF" stroke-opacity=".12"/>
-    <circle cx="1210" cy="50" r="230" stroke="#B5A0FF" stroke-opacity=".16"/>
-    <circle cx="1210" cy="50" r="290" stroke="#7AA2FF" stroke-opacity=".12"/>
+    <rect width="1280" height="460" fill="#FFF8EF"/>
+    <path d="M952-70c190-54 386 67 386 228s-134 263-288 232S789 274 804 132 851-41 952-70Z" fill="#E8E5F4"/>
+    <path d="M861 165c54-68 160-85 239-36s104 150 26 207-232 61-287-6-29-100 22-165Z" fill="#F0D8C9"/>
+    <path d="M0 421c178-43 299 44 482 10s258-20 368 9 279-11 430-36v56H0Z" fill="#E9EDE3"/>
+    <path d="M506 51c26-15 54-6 60 12s-22 29-40 15-1-39 28-44" stroke="#C5B9DD" stroke-width="2" stroke-linecap="round"/>
 
-    <rect x="56" y="44" width="38" height="38" rx="10" fill="#A7BAFF"/>
-    <path d="m66 56 6 7-6 7m11 0h7" stroke="#182540" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="110" y="69" fill="#B1BFDC" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">MARCELLOHUGO</text>
+    <circle cx="72" cy="64" r="8" fill="#C88169"/>
+    <text x="94" y="70" fill="#62617A" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">MARCELLOHUGO</text>
+    <text x="60" y="158" fill="#62617A" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-style="italic">hey, I'm</text>
+    <text x="55" y="259" fill="#34364E" font-family="'Segoe UI', Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-4">Marco<tspan fill="#C88169">.</tspan></text>
+    <text x="64" y="310" fill="#62617A" font-family="'Segoe UI', Arial, sans-serif" font-size="23">Exploring web, mobile, and cloud.</text>
+    <rect x="64" y="338" width="188" height="36" rx="18" fill="#E8E5F4"/>
+    <text x="158" y="361" text-anchor="middle" fill="#55556F" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600">Informatics @ ITS</text>
+    <text x="64" y="422" fill="#596B59" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2">SURABAYA, INDONESIA</text>
 
-    <g fill="#F3F7FA" font-family="'Segoe UI', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
-      <text x="52" y="178">Marco Marcello</text>
-      <text x="52" y="261" fill="url(#name)">Hugo<tspan fill="#F3C878">.</tspan></text>
-    </g>
-    <text x="56" y="309" fill="#AFBDD4" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Exploring <tspan fill="#8CBBFF">web</tspan>, <tspan fill="#C0A8FF">mobile</tspan>, and <tspan fill="#6EE7CF">cloud</tspan>.</text>
+    <use href="#sparkle" transform="translate(440 214) scale(.9)" fill="#B2A5D3"/>
+    <use href="#sparkle" transform="translate(765 119) scale(.9)" fill="#C88169"/>
+    <use href="#sparkle" transform="translate(1210 77) scale(.7)" fill="#9DAF96"/>
+    <circle cx="1190" cy="373" r="5" fill="#C5B9DD"/>
+    <circle cx="787" cy="341" r="4" fill="#C88169"/>
 
-    <g transform="translate(1012 182)" stroke-linejoin="round">
-      <ellipse cy="96" rx="168" ry="54" stroke="#7AA2FF" stroke-opacity=".35" stroke-dasharray="4 8"/>
-      <path d="m0 4 144 76L0 156-144 80Z" fill="#172C4A" stroke="#7AA2FF" stroke-width="1.5"/>
-      <path d="M-144 80v14L0 170l144-76V80M0 156v14" stroke="#7AA2FF" stroke-width="1.5"/>
-      <path d="M-144 24v56M144 24v56M0 100v56" stroke="#7AA2FF" stroke-opacity=".55" stroke-dasharray="4 6"/>
-      <path d="m0-52 144 76L0 100-144 24Z" fill="#2D284F" stroke="#B5A0FF" stroke-width="1.5"/>
-      <path d="M-144 24v14L0 114l144-76V24M0 100v14" stroke="#B5A0FF" stroke-width="1.5"/>
-      <path d="M-144-32v56M144-32v56M0 44v56" stroke="#B5A0FF" stroke-opacity=".6" stroke-dasharray="4 6"/>
-      <path d="m0-108 144 76L0 44-144-32Z" fill="url(#surface)" stroke="#6EE7CF" stroke-width="2"/>
-      <path d="M-144-32v14L0 58l144-76v-14M0 44v14" stroke="#6EE7CF" stroke-width="2"/>
-      <path d="m-35-40-22 12 22 12m70-24 22 12-22 12m-24 5L14-48" stroke="#96F1DE" stroke-width="4" stroke-linecap="round"/>
-      <circle cx="144" cy="-32" r="5" fill="#F3C878"/>
-      <path d="M144-32h34v-60" stroke="#F3C878" stroke-opacity=".7"/>
-      <circle cx="178" cy="-96" r="4" fill="#182039" stroke="#F3C878" stroke-width="1.5"/>
-      <path d="M-144 80h-30v-150" stroke="#7AA2FF" stroke-opacity=".75"/>
-      <circle cx="-174" cy="-74" r="4" fill="#7AA2FF"/>
+    <g transform="rotate(8 1121 127)">
+      <rect x="1064" y="76" width="114" height="91" rx="4" fill="#EFD99E"/>
+      <rect x="1098" y="69" width="47" height="15" rx="2" fill="#D6CCB0" fill-opacity=".65"/>
+      <text x="1080" y="116" fill="#6F6246" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic">keep</text>
+      <text x="1080" y="143" fill="#6F6246" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic">learning</text>
     </g>
 
-    <path d="M56 361H1224" stroke="url(#accent)" stroke-opacity=".4"/>
-    <circle cx="62" cy="396" r="4" fill="#F3C878"/>
-    <text x="78" y="401" fill="#B7C7D2" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">INFORMATICS @ ITS</text>
-    <text x="1224" y="401" text-anchor="end" fill="#9BAEBE" font-family="'Segoe UI', Arial, sans-serif" font-size="13" letter-spacing="1.6">SURABAYA, INDONESIA</text>
+    <ellipse cx="1005" cy="369" rx="192" ry="17" fill="#D6D2DE" fill-opacity=".5"/>
+    <g transform="rotate(-4 980 256)" stroke-linejoin="round">
+      <rect x="835" y="158" width="282" height="176" rx="18" fill="#B8B6DE" stroke="#77738F" stroke-width="2.5"/>
+      <rect x="849" y="172" width="254" height="145" rx="10" fill="#FFFDF8"/>
+      <path d="M849 201h254" stroke="#E5E0E5" stroke-width="1.5"/>
+      <circle cx="865" cy="187" r="4" fill="#DEA38D"/>
+      <circle cx="879" cy="187" r="4" fill="#E2CB88"/>
+      <circle cx="893" cy="187" r="4" fill="#A6BBA4"/>
+      <path d="m891 231-14 12 14 12m35-24 14 12-14 12m-22 5 9-36" stroke="#8E87B6" stroke-width="3" stroke-linecap="round"/>
+      <path d="M962 231h106" stroke="#A5B9A1" stroke-width="6" stroke-linecap="round"/>
+      <path d="M962 245h74" stroke="#C8BDDD" stroke-width="6" stroke-linecap="round"/>
+      <path d="M962 259h90" stroke="#E2B29C" stroke-width="6" stroke-linecap="round"/>
+      <path d="M877 285h76m12 0h40" stroke="#DDD7E6" stroke-width="5" stroke-linecap="round"/>
+      <path d="M817 334h319l-13 17a14 14 0 0 1-11 5H841a14 14 0 0 1-11-5Z" fill="#D5D1E9" stroke="#77738F" stroke-width="2.5"/>
+      <path d="M949 334h55l-5 8h-45Z" fill="#AAA5C8"/>
+    </g>
+
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1181 301c-5-35-5-63 5-94m-8 63-21-27m23 12 23-27" stroke="#778F70" stroke-width="3"/>
+      <path d="M1185 219c-22-4-25-28-20-40 23 8 29 22 20 40Z" fill="#A6BBA4"/>
+      <path d="M1183 235c1-25 23-35 37-32-2 25-18 35-37 32Z" fill="#879E80"/>
+      <path d="M1170 256c-26-1-39-18-34-33 22 0 37 12 34 33Z" fill="#97AE90"/>
+      <path d="M1179 275c6-23 26-32 40-26-6 22-23 31-40 26Z" fill="#A6BBA4"/>
+      <path d="M1152 296h57l-7 55a9 9 0 0 1-9 8h-25a9 9 0 0 1-9-8Z" fill="#DCA28A" stroke="#B88672" stroke-width="2"/>
+      <path d="M1151 295h59v10h-59Z" fill="#E9B8A0" stroke="#B88672" stroke-width="2"/>
+    </g>
+    <path d="M793 390c14-9 32-10 48-3" stroke="#B4BEAA" stroke-width="2" stroke-linecap="round"/>
   </g>
 </svg>
