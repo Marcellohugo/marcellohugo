@@ -20,21 +20,45 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
 
 ## My toolbox
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript · TypeScript · PHP · Java · Kotlin · Go · C# |
-| **Web** | React · Next.js · Vue · Nuxt · Angular · Svelte · Tailwind CSS · HTML · CSS · Sass |
-| **Backend** | Laravel · Node.js · Express · NestJS · .NET · Blazor |
-| **Mobile** | Android · Flutter · React Native |
-| **Data** | MySQL · PostgreSQL · MariaDB · Firebase |
-| **Cloud & systems** | AWS · Docker · Kubernetes · Linux · Bash · PowerShell |
-| **Workflow** | Git · Postman · Figma |
-
-<details>
-  <summary>A few more things I've explored</summary>
-  <br />
-  AngularJS · VuePress · Vuetify · WordPress · Windows · Selenium · Unity
-</details>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <!-- GitHub caps this wide column to the available README width. -->
+      <th align="left" width="9999">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>JavaScript · TypeScript · PHP · Java · Kotlin · Go · C#</td>
+    </tr>
+    <tr>
+      <td><strong>Web</strong></td>
+      <td>React · Next.js · Vue · Nuxt · Angular · Svelte · Tailwind CSS · HTML · CSS · Sass</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>Laravel · Node.js · Express · NestJS · .NET · Blazor</td>
+    </tr>
+    <tr>
+      <td><strong>Mobile</strong></td>
+      <td>Android · Flutter · React Native</td>
+    </tr>
+    <tr>
+      <td><strong>Data</strong></td>
+      <td>MySQL · PostgreSQL · MariaDB · Firebase</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud &amp; systems</strong></td>
+      <td>AWS · Docker · Kubernetes · Linux · Bash · PowerShell</td>
+    </tr>
+    <tr>
+      <td><strong>Workflow</strong></td>
+      <td>Git · Postman · Figma</td>
+    </tr>
+  </tbody>
+</table>
 
 ## GitHub activity
 
@@ -42,12 +66,6 @@ I'm curious about **web development, mobile apps, and cloud technologies**. Righ
   <a href="https://github.com/Marcellohugo#overview">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=12&amp;background=142233&amp;ring=E8A66F&amp;fire=E8A66F&amp;currStreakLabel=91BAEF&amp;sideLabels=B1C1D3&amp;currStreakNum=F4F3EF&amp;sideNums=F4F3EF&amp;dates=B1C1D3&amp;stroke=30465E" alt="Marco's GitHub contribution streak" width="520" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Marcellohugo?tab=repositories">Browse all repositories ↗︎</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Marcellohugo?tab=overview">View contributions ↗︎</a>
 </p>
 
 ---
