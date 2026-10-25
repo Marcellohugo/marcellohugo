@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Marco Marcello Hugo</title>
+  <desc id="description">Informatics at ITS. Exploring web, mobile, and cloud. A navy and mint banner with an illustration of connected layers.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#223446" stroke-opacity=".32"/>
+    </pattern>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17372F"/>
+      <stop offset="1" stop-color="#10232B"/>
+    </linearGradient>
+    <clipPath id="bounds">
+      <rect width="1280" height="440" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="440" fill="#0D1721"/>
+    <rect x="768" width="512" height="440" fill="url(#grid)"/>
+    <path d="M768 0V440" stroke="#223446" stroke-opacity=".5"/>
+    <circle cx="1210" cy="50" r="230" stroke="#223446" stroke-opacity=".45"/>
+    <circle cx="1210" cy="50" r="290" stroke="#223446" stroke-opacity=".25"/>
+
+    <rect x="56" y="44" width="38" height="38" rx="10" fill="#8CE8C3"/>
+    <path d="m66 56 6 7-6 7m11 0h7" stroke="#0D1721" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="69" fill="#9BAEBE" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2">MARCELLOHUGO</text>
+
+    <g fill="#F3F7FA" font-family="'Segoe UI', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+      <text x="52" y="178">Marco Marcello</text>
+      <text x="52" y="261">Hugo<tspan fill="#8CE8C3">.</tspan></text>
+    </g>
+    <text x="56" y="309" fill="#9BAEBE" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Exploring web, mobile, and cloud.</text>
+
+    <g transform="translate(1012 182)" stroke-linejoin="round">
+      <ellipse cy="96" rx="168" ry="54" stroke="#223446" stroke-dasharray="4 8"/>
+      <path d="m0 4 144 76L0 156-144 80Z" fill="#101E29" stroke="#375366" stroke-width="1.5"/>
+      <path d="M-144 80v14L0 170l144-76V80M0 156v14" stroke="#375366" stroke-width="1.5"/>
+      <path d="M-144 24v56M144 24v56M0 100v56" stroke="#375366" stroke-dasharray="4 6"/>
+      <path d="m0-52 144 76L0 100-144 24Z" fill="#102C2A" stroke="#528E7D" stroke-width="1.5"/>
+      <path d="M-144 24v14L0 114l144-76V24M0 100v14" stroke="#528E7D" stroke-width="1.5"/>
+      <path d="M-144-32v56M144-32v56M0 44v56" stroke="#528E7D" stroke-dasharray="4 6"/>
+      <path d="m0-108 144 76L0 44-144-32Z" fill="url(#surface)" stroke="#8CE8C3" stroke-width="2"/>
+      <path d="M-144-32v14L0 58l144-76v-14M0 44v14" stroke="#8CE8C3" stroke-width="2"/>
+      <path d="m-35-40-22 12 22 12m70-24 22 12-22 12m-24 5L14-48" stroke="#8CE8C3" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="144" cy="-32" r="5" fill="#8CE8C3"/>
+      <path d="M144-32h34v-60" stroke="#8CE8C3" stroke-opacity=".55"/>
+      <circle cx="178" cy="-96" r="4" fill="#0D1721" stroke="#8CE8C3" stroke-width="1.5"/>
+      <path d="M-144 80h-30v-150" stroke="#528E7D" stroke-opacity=".65"/>
+      <circle cx="-174" cy="-74" r="4" fill="#8CE8C3"/>
+    </g>
+
+    <path d="M56 361H1224" stroke="#223446"/>
+    <circle cx="62" cy="396" r="4" fill="#8CE8C3"/>
+    <text x="78" y="401" fill="#B7C7D2" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">INFORMATICS @ ITS</text>
+    <text x="1224" y="401" text-anchor="end" fill="#9BAEBE" font-family="'Segoe UI', Arial, sans-serif" font-size="13" letter-spacing="1.6">SURABAYA, INDONESIA</text>
+  </g>
+</svg>
