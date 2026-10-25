@@ -14,16 +14,11 @@
 
 ## About me
 
-<table>
-  <tr>
-    <td width="9999" valign="middle">
-      <p>Hi, I'm <strong>Marco Marcello Hugo</strong>, an Informatics Engineering student at <strong>Institut Teknologi Sepuluh Nopember (ITS)</strong> in Surabaya, Indonesia. I'm exploring <strong>web development, mobile apps, and cloud technologies</strong>, while learning full-stack development and how to make software easier to use, understand, and maintain.</p>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/main/assets/duck.gif" alt="Animated duck working on a laptop" width="96" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://raw.githubusercontent.com/Marcellohugo/marcellohugo/main/assets/duck.gif" alt="Animated duck working on a laptop" width="96" />
+
+Hi, I'm **Marco Marcello Hugo**, an Informatics Engineering student at **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia. I'm exploring **web development, mobile apps, and cloud technologies**, while learning full-stack development and how to make software easier to use, understand, and maintain.
+
+<br clear="right" />
 
 ## My toolbox
 
@@ -69,21 +64,13 @@
 
 ## GitHub activity
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Marcellohugo&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;card_width=495&amp;custom_title=GitHub%20Stats&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;icon_color=91BAEF&amp;border_radius=12&amp;disable_animations=true" alt="Marco's public GitHub activity: stars, commits, pull requests, and issues" width="100%" />
-    </td>
-    <td width="33%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellohugo&amp;layout=compact&amp;hide_border=true&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;border_radius=12&amp;langs_count=8&amp;card_width=495&amp;disable_animations=true" alt="Most-used languages across Marco's public repositories" width="100%" />
-    </td>
-    <td width="33%" align="center" valign="middle">
-      <a href="https://github.com/Marcellohugo#overview">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=12&amp;background=142233&amp;ring=E8A66F&amp;fire=E8A66F&amp;currStreakLabel=91BAEF&amp;sideLabels=B1C1D3&amp;currStreakNum=F4F3EF&amp;sideNums=F4F3EF&amp;dates=B1C1D3&amp;stroke=30465E" alt="Marco's GitHub contribution streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Marcellohugo&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;card_width=495&amp;custom_title=GitHub%20Stats&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;icon_color=91BAEF&amp;border_radius=12&amp;disable_animations=true" alt="Marco's public GitHub activity: stars, commits, pull requests, and issues" width="32%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcellohugo&amp;layout=compact&amp;hide_border=true&amp;bg_color=142233&amp;title_color=E8A66F&amp;text_color=B1C1D3&amp;border_radius=12&amp;langs_count=8&amp;card_width=482&amp;disable_animations=true" alt="Most-used languages across Marco's public repositories" width="32%" />
+  <a href="https://github.com/Marcellohugo#overview">
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=12&amp;background=142233&amp;ring=E8A66F&amp;fire=E8A66F&amp;currStreakLabel=91BAEF&amp;sideLabels=B1C1D3&amp;currStreakNum=F4F3EF&amp;sideNums=F4F3EF&amp;dates=B1C1D3&amp;stroke=30465E" alt="Marco's GitHub contribution streak" width="32%" />
+  </a>
+</p>
 
 ---
 
