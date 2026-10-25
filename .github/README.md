@@ -23,12 +23,14 @@ Currently learning **full-stack development** and how to build software that's e
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="../assets/researchmate-cover.svg" alt="" width="100%" />
       <h3>01 &nbsp; ResearchMate</h3>
       <p>A research assistant with AI agents, private PDF documents, and retrieval-augmented generation.</p>
       <p><sub><strong>LARAVEL &nbsp; / &nbsp; POSTGRESQL &nbsp; / &nbsp; QDRANT</strong></sub></p>
       <a href="https://github.com/Marcellohugo/Researchmate"><strong>View ResearchMate ↗︎</strong></a>
     </td>
     <td width="50%" valign="top">
+      <img src="../assets/webgl-cover.svg" alt="" width="100%" />
       <h3>02 &nbsp; WebGL Playground</h3>
       <p>An interactive 3D scene exploring camera controls, atmospheric lighting, and rendering on the web.</p>
       <p><sub><strong>THREE.JS &nbsp; / &nbsp; VITE &nbsp; / &nbsp; TAILWIND CSS</strong></sub></p>
@@ -61,7 +63,7 @@ Currently learning **full-stack development** and how to build software that's e
 
 <p align="center">
   <a href="https://github.com/Marcellohugo#overview">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=16&amp;background=0D1721&amp;ring=8CE8C3&amp;fire=8CE8C3&amp;currStreakLabel=8CE8C3&amp;sideLabels=9BAEBE&amp;currStreakNum=F3F7FA&amp;sideNums=F3F7FA&amp;dates=9BAEBE&amp;stroke=223446" alt="Marco's GitHub contribution streak" width="520" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcellohugo&amp;disable_animations=true&amp;hide_border=true&amp;border_radius=16&amp;background=151D33&amp;ring=B5A0FF&amp;fire=F3C878&amp;currStreakLabel=6EE7CF&amp;sideLabels=AFBDD4&amp;currStreakNum=F3F7FA&amp;sideNums=F3F7FA&amp;dates=AFBDD4&amp;stroke=344364" alt="Marco's GitHub contribution streak" width="520" />
   </a>
 </p>
 
